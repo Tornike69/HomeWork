@@ -1,0 +1,47 @@
+
+  #wrapper  img{
+  	
+   	width: 150px;
+   	height: 150px;
+   	border-radius: 50%;
+   	border:7px solid #99ccff;
+   	overflow: hidden;
+   	margin-left: 300px;
+   	margin-top: 300px;
+
+   
+   	
+   }
+
+   .logof {
+   	color: blue;
+   display: inline-block;
+   position: absolute;
+   left:380px;
+   top:300px;
+   font-size: 20px;
+ }
+
+ .loginst {
+  display: inline-block;
+   position: absolute;
+ 	left:7px;
+   top:150px;
+   font-size:20px;
+ }
+
+  .lefty {
+  	display: inline-block;
+   position: absolute;
+ 	left:-80px;
+   top:70px;
+   font-size: 20px;
+  }
+
+.righty {
+	display: inline-block;
+   position: absolute;
+   left:80px;
+   top:70px;
+   font-size: 20px;
+}
